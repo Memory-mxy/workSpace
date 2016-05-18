@@ -1,0 +1,10 @@
+<div class="m-index">
+	<div class="m-index-container"></div>
+  	<footer>
+    	<ul>
+	      	<li class="yo-ico active" action-type="tap.switch" data-tag="home">&#xe604</li>
+	      	<li class="yo-ico" action-type="tap.switch" data-tag="guide">&#xe689</li>
+	      	<li class="yo-ico" action-type="tap.switch" data-tag="my">&#xe626</li>
+    	</ul>
+  	</footer>
+</div>

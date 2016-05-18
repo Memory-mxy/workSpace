@@ -1,0 +1,93 @@
+<header>
+	<ul id="home-nav">
+	  	<li class="active" action-type="tap.slide">每日精选</li>
+	  	<li action-type="tap.slide">值得买</li>
+	</ul>
+</header>
+
+<div class="swiper-container" id="home-swiper">
+  <div class="swiper-wrapper">
+  	
+	<div class="swiper-slide" id="swiper-choiceness" spa-widget="scroll">
+	<section>
+		<div>
+		<div class="banner">
+			<div class="swiper-container" id="home-banner-swiper">
+			    <div class="swiper-wrapper">
+			        <div class="swiper-slide"><img src="/myApp/images/banner1.jpg"></div>
+			        <div class="swiper-slide"><img src="/myApp/images/banner2.jpg"></div>
+			        <div class="swiper-slide"><img src="/myApp/images/banner3.jpg"></div>
+			        <div class="swiper-slide"><img src="/myApp/images/banner4.jpg"></div>
+			    </div>
+			    <div class="swiper-pagination"></div>
+		    </div>
+		</div>
+		<nav>
+			<ul>
+				<li>
+					<i><img src="/myApp/images/content1.jpg"/></i>
+					<b>Organikr</b>
+				</li>
+				<li>
+					<i><img src="/myApp/images/content2.jpg"/></i>
+					<b>手艺人</b>
+				</li>
+				<li>
+					<i><img src="/myApp/images/content3.jpg"/></i>
+					<b>抢先听</b>
+				</li>
+				<li>
+					<i><img src="/myApp/images/content4.jpg"/></i>
+					<b>奇妙之旅</b>
+				</li>		
+			</ul>
+		</nav>
+		<div class="content">
+			<div class="content-main">
+				<img src="/myApp/images/banner3.jpg" />
+				<div class="content-main-box">
+					<i>泰国营养焖饭</i>
+					<b>独特风味,一口去泰国</b>
+				</div>
+			</div>
+			<div class="content-main">
+				<img src="/myApp/images/banner3.jpg" />
+				<div class="content-main-box">
+					<i>泰国营养焖饭</i>
+					<b>独特风味,一口去泰国</b>
+				</div>
+			</div>
+			<div class="content-main">
+				<img src="/myApp/images/banner3.jpg" />
+				<div class="content-main-box">
+					<i>泰国营养焖饭</i>
+					<b>独特风味,一口去泰国</b>
+				</div>
+			</div>
+			<div class="content-main">
+				<img src="/myApp/images/banner3.jpg" />
+				<div class="content-main-box">
+					<i>泰国营养焖饭</i>
+					<b>独特风味,一口去泰国</b>
+				</div>
+			</div>
+			<div class="content-main">
+				<img src="/myApp/images/banner2.jpg" />
+				<div class="content-main-box">
+					<i>泰国营养焖饭</i>
+					<b>独特风味,一口去泰国</b>
+				</div>
+			</div>
+			
+		</div>
+		</div>
+		
+	</section>
+</div>
+
+<div class="swiper-slide" id="swiper-worth">
+	值得买
+</div>
+<div class="swiper-scrollbar"></div>
+</div>
+</div>
